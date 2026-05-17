@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ljwtorch
-- 🌱 I’m currently learning some back-end technologies
+- 👋 Hi, I’m @torch
 - ✨ Interest is the best teacher for learning
 <!---
 ljwtorch/ljwtorch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
